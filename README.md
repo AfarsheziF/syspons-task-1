@@ -2,7 +2,7 @@
 
 Task project for Soft­ware developer for web applic­a­tions position at Syspons. By [Or_Sarfati](https://www.orsarfati.com)
 
--- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+*This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.*
 
 ## Development server
 
