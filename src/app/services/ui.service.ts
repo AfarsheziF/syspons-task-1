@@ -1,0 +1,19 @@
+import { Injectable } from '@angular/core';
+import { Observable, Subject } from 'rxjs';
+
+@Injectable({
+  providedIn: 'root'
+})
+export class UiService {
+  private subject = new Subject<any>();
+
+  constructor() { }
+
+  toggleAddTask(value?: any): void {
+    this.subject.next(value);
+  }
+
+  onToggle(): Observable<any> {
+    return this.subject.asObservable();
+  }
+}

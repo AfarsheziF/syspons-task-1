@@ -1,0 +1,6 @@
+<div class="page" (scroll)="onScroll($any($event))">
+    <app-commerce-item [item]="item" [index]="i" *ngFor="let item of commerces$ ; let i = index"
+        [animationIndex]="animationIndex[i]">
+    </app-commerce-item>
+    <mat-spinner *ngIf="status$ === 'loading'" diameter="35" style="margin: auto"></mat-spinner>
+</div>

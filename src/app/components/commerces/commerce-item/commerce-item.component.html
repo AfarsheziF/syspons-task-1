@@ -1,0 +1,11 @@
+<mat-card class="commerce-item" [@itemAnimation]="{value:true, params:{delay: animationIndex * 100}}">
+    <mat-card-title>{{index}} {{item?.product_name}}</mat-card-title>
+    <mat-card-content *ngIf="open">
+        <div *ngFor="let value of item | keyvalue">
+            <b>{{value.key}}</b>: {{value.value}}
+        </div>
+    </mat-card-content>
+    <mat-card-actions>
+        <button mat-button (click)="open = !open">{{open ? 'Close' : 'Open'}}</button>
+    </mat-card-actions>
+</mat-card>
