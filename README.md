@@ -2,8 +2,6 @@
 
 Task project for Soft­ware developer for web applic­a­tions position at Syspons. By [Or_Sarfati](https://www.orsarfati.com)
 
-*This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.*
-
 **Production link: https://afarshezif.github.io/syspons-task-1/**
 
 ## Development server
@@ -21,3 +19,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 ## Linting
 
 Run `ng lint`
+
+---
+
+*This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.*
