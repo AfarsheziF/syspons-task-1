@@ -6,10 +6,10 @@ By [Or_Sarfati](https://www.orsarfati.com). [afrshezif@gmail.com](mailto:afrshez
 
 **> [Production link](https://afarshezif.github.io/syspons-task-1/)**
 
-The task represents an example of dynamic data load and user interaction in Angular 14 environment.
-The data source is an restAPI provider called Random-Api, while layout is done using Angular Material library with costume css implementations.
-NgRX was used for state management lifecycle supporting actions-reducer-effects-selector paradigm
-Linting is done using angular-eslint
+The task represents an example of dynamic data load and user interaction in Angular 14 environment.__
+The data source is an restAPI provider called [Random-Api](https://random-data-api.com/), while layout is done using [Angular Material](https://material.angular.io/) library with costume css implementations.__
+[NgRX](https://ngrx.io/) was used for state management lifecycle supporting actions-reducer-effects-selector paradigm.__
+Linting is done using [angular-eslint](https://github.com/angular-eslint/angular-eslint).
 
 ## Development server
 
@@ -27,4 +27,4 @@ Run `ng lint`
 
 *This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.*
 
-13.06.2022
+Berlin. 13.06.2022
