@@ -4,6 +4,8 @@ Task project for Soft­ware developer for web applic­a­tions position at Syspo
 
 *This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.*
 
+**Production link: https://afarshezif.github.io/syspons-task-1/**
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
