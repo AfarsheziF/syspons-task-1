@@ -1,6 +1,6 @@
 # Syspons-Task-1
 
-Task project for Soft­ware developer for web applic­a­tions position at Syspons. By [Or_Sarfati](https://www.orsarfati.com)
+Task project for Soft­ware developer for web applic­a­tions position at Syspons. By [Or_Sarfati](https://www.orsarfati.com) / [email](mailto:afrshezif@gmail.com)
 
 **Production link: https://afarshezif.github.io/syspons-task-1/**
 
